@@ -27,6 +27,6 @@ This is a cloud-based **Weather Dashboard** that provides real-time weather upda
 ## 🏗️ Setup & Deployment  
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/weather-dashboard-azure.git
-cd weather-dashboard-azure
+git clone https://github.com/your-username/weather-dashboard.git
+cd weather-dashboard
 
