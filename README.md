@@ -1,7 +1,7 @@
 # 🌦️ Weather Dashboard – Azure-Powered Web App
 
 ![Azure Deployment](https://img.shields.io/badge/Deployed%20on-Azure-blue)  
-📌 **Live Demo:** [Your Azure Web App URL](#)  
+📌 **Live Demo:** _Coming Soon..._  
 
 ## 🚀 Project Overview
 This is a cloud-based **Weather Dashboard** that provides real-time weather updates for different locations. It uses **Microsoft Azure** services to automate weather data fetching, storage, and display.  
@@ -29,4 +29,7 @@ This is a cloud-based **Weather Dashboard** that provides real-time weather upda
 ```bash
 git clone https://github.com/your-username/weather-dashboard.git
 cd weather-dashboard
+
+## 📢 **Development Status**
+## 🚧 This project is currently under development. Some features may not be fully functional yet. 🚧
 
